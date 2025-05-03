@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0969da&size=25&center=false&lines=Programador+web+entusiasta...;Siempre+con+ganas+de+aprender...;Error+404%3A+limites+no+encontrados...;Café+%2B+código+=+felicidad.;Cada+línea+cuenta...;¿Un+reto%3F+¡Aceptado!" />
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="400px" align="right" />
 
-<h2>Sobre mi &#x1F60E;</h2>
+<h2>Sobre mí &#x1F60E;</h2>
 <p>- <i>Estudiante de Ingeniería de Software, actualmente a mitad de la carrera. Apasionado por la programación web, en constante aprendizaje y ampliando conocimientos en desarrollo front-end y back-end. Con entusiasmo por crear proyectos productivos, innovadores y creativos.</i></p>
 
 - 🌱 Actualmente estoy aprendiendo ...
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 
-<h2>Github stats:</h2> 
+<h2>Estadísticas de Github :</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=JuanD-Ruiz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanD-Ruiz)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JuanD-Ruiz&theme=material-palenight)](https://github.com/JuanD-Ruiz)

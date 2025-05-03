@@ -27,4 +27,10 @@
   <h4> Otras herramientas y tecnologías</h4>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JuanD-Ruiz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanD-Ruiz)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanD-Ruiz&theme=material-palenight)](https://github.com/JuanD-Ruiz)
+</div>
   
